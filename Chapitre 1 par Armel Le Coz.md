@@ -1,6 +1,6 @@
-Chapitre 1 – 2017 : le bouleversement, c'est maintenant ?
+# Chapitre 1 – 2017 : le bouleversement, c'est maintenant ?
  
-France, janvier 2017. La campagne présidentielle bat son plein.
+*France, janvier 2017. La campagne présidentielle bat son plein*.
 Ariane a 32 ans. Elle habite près de Lille avec son petit garçon, Malo, qui a 1 an et quelques mois. Quand on lui demande pour qui elle va voter, elle répond qu'elle s'abstiendra. Elle se définit comme une « dégoûtée de la politique », ou en tout cas, dégoutée des formes classiques de politique et d'engagement. Pour elle, être citoyenne n'a absolument rien a voir avec le fait de mettre un bulletin dans une urne tous les 5 ans. Elle ne croit de toutes façons pas dans la capacité des principaux partis politique a changer quoi que ce soit à son quotidien. Elle considère qu'il est bien plus efficace de se bouger soi-même, d'agir directement en consommant local, en évitant d'acheter des produits fabriqués dans des pays qui ne respectent pas leurs travailleurs ou encore en s'engageant dans son association d'aide aux sans-abris. Ça, c'est du concret, bien plus que la soupe que nous vendent les principaux candidats. « Ils me saoulent ! » tranche-t-elle régulièrement pour couper court aux conversations que son père essaye d'engager sur le sujet. Elle sait très bien qu'il vote a droite, que sa mère vote a gauche et que c'est l'objet de discussions fleuves et de débats stériles qui ne débouchent jamais sur rien de réaliste. « Franchement, la gauche ou la droite, ça ne veut plus rien dire » répète-elle pour éviter d'avoir à prendre parti. « Moi je ne vote pas, c'est plus simple. Ça fait bien longtemps que je ne crois plus au père Noël ! ».
 Vivement que cette campagne présidentielle se termine. L'élection du président l'intéresse autant que celle de Miss France. « C'est a se demander lequel des deux a le plus de pouvoir » en vient-elle à penser. Il y a quelques année pourtant, elle essayait de s'informer, de se forger une opinion, de comparer les programmes et d'aller voter : de faire son « devoir civique ». Aujourd'hui, elle est dégoûtée. « Ils promettent tout et on voit bien que rien ne change vraiment. On va droit dans le mur, notre système tourne en rond et pendant ce temps, les politiques s'écharpent sur des affaires, sur des grandes valeurs théoriques ou des promesses intenables et dépassées ».
  
@@ -28,5 +28,5 @@ Mais le collectif a aussi une stratégie plus réaliste : celle de faire élire 
  
 Du coup, Ariane se propose sur facebook pour être tirée au sort comme députée augmentée. C'est de cette manière que la vie de cette jeune mère de 32 ans va être complètement bouleversée...
  
-Écrit par Armel Le Coz
-Personne désignée pour écrire le chapitre 2 : Quitterie de Villepin
+* Écrit par **Armel Le Coz**
+* Personne désignée pour écrire le chapitre 2 : **Quitterie de Villepin**
