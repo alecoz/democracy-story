@@ -6,6 +6,7 @@
 * Publier le texte sur Github, à cette adresse : https://github.com/alecoz/democracy-story/
 * Prévenir les initiateurs du jeu via twitter : [@armel_lecoz](https://twitter.com/armel_lecoz), [@Transition_Demo](https://twitter.com/Transition_Demo) et [@OpenGovFr](https://twitter.com/OpenGovFr).
 * Respecter les lois en vigueur et la [charte de Démocratie Ouverte](http://democratieouverte.org/a-propos/charte-de-d%C3%A9mocratie-ouverte).
+* Respecter une continuité dans l'histoire pour chaque branche (personnages, événements marquants...)
 
 
 ## Préambule complet
